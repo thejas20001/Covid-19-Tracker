@@ -86,5 +86,5 @@ else:
     fig.add_trace(go.Bar(name='World Data', x=x, y=y))
     st.plotly_chart(fig, use_container_width=True)
 
-st.sidebar.subheader("""Created with 💖 in India by [Manoj](linkedin.com/in/manoj-kumar-m-s-0a9306209) """)
+st.sidebar.subheader("""Created with 💖 in India by [Thejas M](https://www.linkedin.com/in/thejas-m-74b3651a6/) """)
 st.sidebar.image('bg.jpg', width=300)
